@@ -15,8 +15,8 @@
 
 | Nome completo | Usuário GitHub | Questão do seminário |
 |---|---|---|
-| Estela Viana Santos | [estelaviana](https://github.com/estelaviana) | 1 a 13 |
-| Jaryson Simão Gomes   | [JarysonUERN](https://github.com/JarysonUERN) | <!-- nº da questão --> |
+| Estela Viana Santos | [estelaviana](https://github.com/estelaviana) | <!-- nº da questão -->|
+| Jaryson Simão Gomes   | [JarysonUERN](https://github.com/JarysonUERN) | 1 a 13|
 | Pamela Wallesca Ferbabdes Akves | [pamialvs](https://github.com/pamialvs) | <!-- nº da questão --> |
 | Sthefanny Barbosa Lima Costa | [stheblc](https://github.com/stheblc) | <!-- nº da questão --> |
 | Vinicius Samuel Gomes MIranda | [vinxciusg](https://github.com/vinxciusg) | <!-- nº da questão --> |
