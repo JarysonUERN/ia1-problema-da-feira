@@ -15,10 +15,11 @@
 
 | Nome completo | Usuário GitHub | Questão do seminário |
 |---|---|---|
-| <!-- Nome --> | [@usuario](https://github.com/usuario) | <!-- nº da questão --> |
-| <!-- Nome --> | [@usuario](https://github.com/usuario) | <!-- nº da questão --> |
-| <!-- Nome --> | [@usuario](https://github.com/usuario) | <!-- nº da questão --> |
-| <!-- Nome --> | [@usuario](https://github.com/usuario) | <!-- nº da questão --> |
+| Estela Viana Santos | [@usuario](https://github.com/estelaviana) | 1 a 13 |
+| Jaryson Simão Gomes   | [@usuario](https://github.com/JarysonUERN) | <!-- nº da questão --> |
+| Pamela Wallesca Ferbabdes Akves | [@usuario](https://github.com/pamialvs) | <!-- nº da questão --> |
+| Sthefanny Barbosa Lima Costa | [@usuario](https://github.com/stheblc) | <!-- nº da questão --> |
+| Vinicius Samuel Gomes MIranda | [@usuario](https://github.com/vinxciusg) | <!-- nº da questão --> |
 
 > A coluna "Questão do seminário" será preenchida após a atribuição pelo professor, uma semana antes da entrega.
 
